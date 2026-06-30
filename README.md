@@ -1,6 +1,7 @@
-# Android-Development-Practices
-👨‍💻 About Me: - Name: Pratham Dada - Age: 18 Years Young - Location: Dhanbad, Jharkhand 🇮🇳 - Passion: Programming &amp; Gaming  🛠️ Skills: - Python - Game Development - Problem Solving  🌱 Currently Learning: - Advanced Python - AI/ML Basics  💬 Let's connect and build something amazing!
+👨‍💻 About Me: - Name: Pratham Dada - Age: 18 Years Young - Location: Dhanbad, Jharkhand 🇮🇳 
 # 📱 Android Development Roadmap: Zero to Advanced
+<img width="654" height="468" alt="image" src="https://github.com/user-attachments/assets/9058ba3e-3c26-4676-bbb3-c47a27a7a9e2" />
+
 
 Welcome to the ultimate, comprehensive guide to mastering Android Development, carefully curated by **Pratham Dada**. Whether you are a absolute beginner looking to build your first application or an intermediate developer aiming to master architecture and production-ready systems, this guide lays down the exact step-by-step path.
 
@@ -39,7 +40,9 @@ At this stage, the focus shifts to enterprise-grade code scalability, clean arch
 
 Accelerate your learning journey by checking out this highly detailed, visual breakdown mapping out this exact transition into mobile engineering:
 
-👉 **[Watch the Complete Android Developer Roadmap Guide](https://www.youtube.com/watch?v=lhA_gGAs6-0)**
+#Watch the Complete Android Developer Roadmap Guide
+
+https://youtu.be/hS5b-ZnhZVg?si=tHPuEVXJ6KEjPxWi
 
 *This walkthrough tracks the roadmap from absolute zero up to building full-stack, job-ready mobile systems.*
 
